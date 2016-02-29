@@ -74,7 +74,7 @@ gulp.task('minify-css', function() {
 gulp.task('minify', function() {
   gulp.src('./src/*.jade')
     .pipe(htmlmin({collapseWhitespace: true}))
-    .pipe(gulp.dest('build/development'))
+    .pipe(gulp.dest(outputDir))
 });
 
 gulp.task('sass', function() {
