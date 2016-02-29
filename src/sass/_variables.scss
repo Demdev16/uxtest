@@ -1,0 +1,20 @@
+@import "bower_components/susy/sass/susy.scss";
+
+
+$susy: (
+    columns: 12,
+    container: 1200px,
+    gutters: 1/4,
+    global-box-sizing: border-box,
+    debug: (image: hide)
+);
+
+$bg-color: #F4F4F4;
+$red: #900;
+$white: #FFF;
+$black: #000;
+$grey: #777;
+$blue: #77AAEF;
+$lightBlue: #DCF1FA;
+$green: #70AE1B;
+$lightGreen: #BBEE75;

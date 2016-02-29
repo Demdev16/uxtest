@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "description": "uxtest",
+  "main": "index.html",
+  "authors": [
+    "Damian T"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "chico": "^2.0.2",
+    "tiny": "^0.1.6",
+    "jquery": "^2.2.0",
+    "susy": "^2.2.12",
+  }
+}

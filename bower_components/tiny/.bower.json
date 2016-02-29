@@ -1,0 +1,38 @@
+{
+  "name": "tiny.js",
+  "description": "A JavaScript utility library oriented to real world tasks.",
+  "version": "0.1.6",
+  "keywords": [
+    "js",
+    "web",
+    "library"
+  ],
+  "homepage": "https://github.com/mercadolibre/tiny.js",
+  "license": "MIT",
+  "moduleType": [
+    "globals",
+    "es6"
+  ],
+  "main": [
+    "tiny.js",
+    "dist/tiny.js",
+    "dist/tiny.min.js"
+  ],
+  "ignore": [
+    "/.*",
+    "gulpfile.js",
+    "karma.conf.js",
+    "test",
+    "package.json"
+  ],
+  "dependencies": {},
+  "_release": "0.1.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.6",
+    "commit": "91bf7a1e492bb7d77706d253ea16b291d1cd74b1"
+  },
+  "_source": "git://github.com/mercadolibre/tiny.js.git",
+  "_target": "^0.1.6",
+  "_originalSource": "tiny"
+}
